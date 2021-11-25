@@ -1,0 +1,3 @@
+/home/ptedok/Code/OOP/lab1/build/CMakeFiles/rebuild_cache.dir
+/home/ptedok/Code/OOP/lab1/build/CMakeFiles/edit_cache.dir
+/home/ptedok/Code/OOP/lab1/build/CMakeFiles/Game.dir

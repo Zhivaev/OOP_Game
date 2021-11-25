@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ptedok/Code/OOP/lab1/source/Entity/entity.h
+
+/home/ptedok/Code/OOP/lab1/source/Field/field.h
+cstddef
+-
+../Tile/tile.h
+/home/ptedok/Code/OOP/lab1/source/Tile/tile.h
+
+/home/ptedok/Code/OOP/lab1/source/FieldBuilder/field_builder.cpp
+field_builder.h
+/home/ptedok/Code/OOP/lab1/source/FieldBuilder/field_builder.h
+iostream
+-
+
+/home/ptedok/Code/OOP/lab1/source/FieldBuilder/field_builder.h
+fstream
+/home/ptedok/Code/OOP/lab1/source/FieldBuilder/fstream
+../Field/field.h
+/home/ptedok/Code/OOP/lab1/source/Field/field.h
+
+/home/ptedok/Code/OOP/lab1/source/Tile/tile.h
+../Entity/entity.h
+/home/ptedok/Code/OOP/lab1/source/Entity/entity.h
+

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ptedok/Code/OOP/lab1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -g -o CMakeFiles/Game.dir/source/main.cpp.o -c /home/ptedok/Code/OOP/lab1/source/main.cpp",
+  "file": "/home/ptedok/Code/OOP/lab1/source/main.cpp"
+},
+{
+  "directory": "/home/ptedok/Code/OOP/lab1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -g -o CMakeFiles/Game.dir/source/App/app.cpp.o -c /home/ptedok/Code/OOP/lab1/source/App/app.cpp",
+  "file": "/home/ptedok/Code/OOP/lab1/source/App/app.cpp"
+},
+{
+  "directory": "/home/ptedok/Code/OOP/lab1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -g -o CMakeFiles/Game.dir/source/Field/field.cpp.o -c /home/ptedok/Code/OOP/lab1/source/Field/field.cpp",
+  "file": "/home/ptedok/Code/OOP/lab1/source/Field/field.cpp"
+},
+{
+  "directory": "/home/ptedok/Code/OOP/lab1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -g -o CMakeFiles/Game.dir/source/FieldBuilder/field_builder.cpp.o -c /home/ptedok/Code/OOP/lab1/source/FieldBuilder/field_builder.cpp",
+  "file": "/home/ptedok/Code/OOP/lab1/source/FieldBuilder/field_builder.cpp"
+},
+{
+  "directory": "/home/ptedok/Code/OOP/lab1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -g -o CMakeFiles/Game.dir/source/View/view.cpp.o -c /home/ptedok/Code/OOP/lab1/source/View/view.cpp",
+  "file": "/home/ptedok/Code/OOP/lab1/source/View/view.cpp"
+},
+{
+  "directory": "/home/ptedok/Code/OOP/lab1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -g -o CMakeFiles/Game.dir/source/Tile/tile.cpp.o -c /home/ptedok/Code/OOP/lab1/source/Tile/tile.cpp",
+  "file": "/home/ptedok/Code/OOP/lab1/source/Tile/tile.cpp"
+}
+]
